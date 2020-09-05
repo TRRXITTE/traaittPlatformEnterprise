@@ -127,7 +127,7 @@
   "total_with_fees": "Total with Fees",
   "total_with_fees_input_placeholder": "The total amount including fees",
   "ETRX": "ETRX",
-  "uncomfirmed_tx_30_sec_confirm": "This transaction is unconfirmed. Should be confirmed within 17 seconds!",
+  "uncomfirmed_tx_30_sec_confirm": "This transaction is unconfirmed. Should be confirmed within 644 seconds!",
   "unconfirmed": "Unconfirmed",
   "unlock": "Unlock",
   "update_required": "Update Required!",

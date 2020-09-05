@@ -5,7 +5,7 @@
   "autoSelectDaemon": true,
   "minimizeToTray": false,
   "logLevel": "DISABLED",
-  "daemonHost": "eu-east.traaittnode.com",
+  "daemonHost": "europe-west.traaitt.com",
   "daemonPort": 24496,
   "darkMode": false,
   "displayCurrency": "ETRX",
