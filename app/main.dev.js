@@ -172,9 +172,9 @@ contextMenu({
       visible: params.selectionText.trim().length === 64,
       click: () => {
         shell.openExternal(
-          `https://traaittchain.com/?search=${encodeURIComponent(
+          `https://network.traaittplatform.com/?hash=${encodeURIComponent(
             params.selectionText
-          )}`
+          )}#blockchain_transaction`
         );
       }
     },
