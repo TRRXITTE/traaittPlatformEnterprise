@@ -99,7 +99,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/traaittplatform/traaittplatformenterprise.git"
+    "url": "git+https://github.com/trrxitte/traaittplatformenterprise.git"
   },
   "author": {
     "name": "traaittPlatform",
@@ -125,7 +125,7 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/traaittplatform/traaittplatformenterprise/issues"
+    "url": "https://github.com/trrxitte/traaittplatformenterprise/issues"
   },
   "keywords": [
     "traaittplatform",
@@ -133,7 +133,7 @@
     "electron",
     "proton"
   ],
-  "homepage": "https://github.com/traaittplatform/traaittplatformenterprise#readme",
+  "homepage": "https://github.com/trrxitte/traaittplatformenterprise#readme",
   "jest": {
     "testURL": "http://localhost/",
     "moduleNameMapper": {

@@ -434,7 +434,7 @@ ipcRenderer.on('failedDaemonInit', failedDaemonInit);
 
 function handleAbout() {
   remote.shell.openExternal(
-    'http://github.com/traaittplatform/traaittplatformenterprise#readme'
+    'http://github.com/trrxitte/traaittplatformenterprise#readme'
   );
 }
 
@@ -444,7 +444,7 @@ function handleHelp() {
 
 function handleIssues() {
   remote.shell.openExternal(
-    'https://github.com/traaittplatform/traaittplatformenterprise/issues'
+    'https://github.com/trrxitte/traaittplatformenterprise/issues'
   );
 }
 

@@ -113,7 +113,7 @@ export default class NodeChanger extends Component<Props, State> {
   };
 
   findNode = () => {
-    remote.shell.openExternal('https://explorer.traaittplatform.com/#network');
+    remote.shell.openExternal('https://raw.githubusercontent.com/TRRXITTE/traaittPlatformnetworkserver/master/traaittplatform.json');
   };
 
   handleNodeInputChange = (event: any) => {
@@ -179,7 +179,7 @@ export default class NodeChanger extends Component<Props, State> {
     return (
       <form onSubmit={this.changeNode}>
         <p className={`has-text-weight-bold ${textColor}`}>
-          Remote Node (node:port)
+          Remote network (ip:port)
         </p>
         <div className="field has-addons is-expanded">
           <div className="control is-expanded has-icons-left">
@@ -285,7 +285,7 @@ export default class NodeChanger extends Component<Props, State> {
         <br />
         <br />
         <p className={`has-text-weight-bold ${textColor}`}>
-          traaittplatformd.log file location:
+          ETRXnetwork.log file location:
         </p>
         <div className="field has-addons">
           <div className="control is-expanded">

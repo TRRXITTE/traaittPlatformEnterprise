@@ -1,16 +1,16 @@
 # traaittPlatform Enterprise
 
-![Download Count](https://img.shields.io/github/downloads/traaittplatform/traaittplatformenterprise/total.svg)
-![Version](https://img.shields.io/github/v/release/traaittplatform/traaittplatformenterprise)
+![Download Count](https://img.shields.io/github/downloads/trrxitte/traaittplatformenterprise/total.svg)
+![Version](https://img.shields.io/github/v/release/trrxitte/traaittplatformenterprise)
 
 ### Master Build Status
 
 ![Master Build Status](https://github.com/turtlecoin/turtle-wallet-proton/workflows/Build%20Proton/badge.svg?branch=master)
 
-#### traaittPlatform Enterprise: [official GitHub Download](https://GitHub.com/traaittPlatform/traaittPlatformEnterprise/releases)
-<img src="https://raw.githubusercontent.com/traaittplatform/traaittplatformenterprise/master/screenshots/screenshot.jpg">
+#### traaittPlatform Enterprise: [official GitHub Download](https://GitHub.com/trrxitte/traaittplatformEnterprise/releases)
+<img src="https://raw.githubusercontent.com/trrxitte/traaittplatformenterprise/master/screenshots/screenshot.jpg">
 <p>
-  traaittPlatform Enterprise is a wallet that uses <a href="http://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/traaittplatform/traaittplatform-wallet-backend-js">traaittplatform-Wallet-Backend-JS</a>, <a href="https://github.com/reactjs/redux">Redux</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="http://webpack.github.io/docs/">Webpack</a> and <a href="https://github.com/gaearon/react-hot-loader">React Hot Loader</a>.
+  traaittPlatform Enterprise is a wallet that uses <a href="http://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/trrxitte/traaittplatform-wallet-backend-js">traaittplatform-Wallet-Backend-JS</a>, <a href="https://github.com/reactjs/redux">Redux</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="http://webpack.github.io/docs/">Webpack</a> and <a href="https://github.com/gaearon/react-hot-loader">React Hot Loader</a>.
 </p>
 
 

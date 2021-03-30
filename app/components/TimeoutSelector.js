@@ -98,7 +98,7 @@ export default class TimeoutSelector extends Component<Props, State> {
     return (
       <div>
         <p className={`has-text-weight-bold ${textColor}`}>
-          Autolock Time Interval (in minutes):
+          Autolock Time Interval (minutes):
         </p>
         <form onSubmit={this.updateTimeoutInConfig}>
           <div className="field has-addons">

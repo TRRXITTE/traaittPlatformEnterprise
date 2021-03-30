@@ -59,7 +59,7 @@ Thanks traaittplatform community, and please enjoy the new version!
 - ability to disable and configure the time of the autolock (in the settings menu)
 - ability to display transactions in fiat value (click on your balance on the bottom right)
 - completely redesigned settings menu
-- "find node" link updated to the new official traaittplatform node finder (https://traaittchain.com/nodes.html)
+- "find network" https://raw.githubusercontent.com/TRRXITTE/traaittPlatformnetworkserver/master/traaittplatform.json
 - some various UI improvements
 - updated to latest version of wallet-backend
 - "test" transaction button for developers (sends a transaction between 0.01 - 1.00 with a fee of 0.1 and a random payment ID to the primary wallet addresss)

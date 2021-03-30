@@ -52,7 +52,7 @@ export default class MenuBuilder {
           label: `${il8n.about} ${productName}`,
           click: () => {
             shell.openExternal(
-              'http://github.com/traaittplatform/traaittplatformenterprise#readme'
+              'http://github.com/trrxitte/traaittplatformenterprise#readme'
             );
           }
         },
@@ -245,7 +245,7 @@ export default class MenuBuilder {
           label: il8n.report_bug,
           click() {
             shell.openExternal(
-              'https://github.com/traaittplatform/traaittplatformenterprise/issues'
+              'https://github.com/trrxitte/traaittplatformenterprise/issues'
             );
           }
         },
@@ -253,7 +253,7 @@ export default class MenuBuilder {
           label: il8n.feature_request,
           click() {
             shell.openExternal(
-              'https://github.com/traaittplatform/traaittplatformenterprise/issues'
+              'https://github.com/trrxitte/traaittplatformenterprise/issues'
             );
           }
         }
@@ -465,7 +465,7 @@ export default class MenuBuilder {
             label: il8n.about,
             click: () => {
               shell.openExternal(
-                'http://github.com/traaittplatform/traaittplatformenterprise#readme'
+                'http://github.com/trrxitte/traaittplatformenterprise#readme'
               );
             }
           },
@@ -473,7 +473,7 @@ export default class MenuBuilder {
             label: il8n.report_bug,
             click: () => {
               shell.openExternal(
-                'https://github.com/traaittplatform/traaittplatformenterprise/issues'
+                'https://github.com/trrxitte/traaittplatformenterprise/issues'
               );
             }
           },
@@ -481,7 +481,7 @@ export default class MenuBuilder {
             label: il8n.feature_request,
             click: () => {
               shell.openExternal(
-                'https://github.com/traaittplatform/traaittplatformenterprise/issues'
+                'https://github.com/trrxitte/traaittplatformenterprise/issues'
               );
             }
           }
