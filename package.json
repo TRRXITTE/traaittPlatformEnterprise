@@ -2,7 +2,7 @@
   "name": "traaittplatform-enterprise",
   "productName": "traaittPlatform Enterprise",
   "version": "1.10.7",
-  "description": "traaittPlatform Enterprise wallet.",
+  "description": "traaittPlatform Enterprise.",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
     "build-dll": "cross-env NODE_ENV=development webpack --config ./configs/webpack.config.renderer.dev.dll.babel.js --colors",
@@ -103,7 +103,7 @@
   },
   "author": {
     "name": "TRRXITTE Int., incorporated",
-    "email": "none@email.com",
+    "email": "traaitt@trrxitte.com",
     "url": "https://TRRXITTE.com"
   },
   "contributors": [

@@ -212,11 +212,11 @@ export default class Send extends Component<Props, State> {
     if (enteredAmount === '.') {
       enteredAmount = '0.';
     }
-
-    const regex = /^\d*(\.(\d\d?)?)?$/;
-    if (!regex.test(enteredAmount) === true) {
-      return;
-    }
+    
+   // const regex = /^\d*(\.(\d\d?)?)?$/; * static amount two decimals ->
+   // if (!regex.test(enteredAmount) === true) {
+   //   return;
+   // }
 
     const fee = displayCurrency === 'ETRX' ? 0.0000001 : 1 * fiatPrice;
 
