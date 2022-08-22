@@ -28,8 +28,8 @@ import DaemonLogger from './wallet/DaemonLogger';
 const homedir = os.homedir();
 
 export const directories = [
-  `${homedir}/.traaittplatformwallet`,
-  `${homedir}/.traaittplatformwallet/logs`
+  `${homedir}/.traaittPlatformEnterprise`,
+  `${homedir}/.traaittPlatformEnterprise/logs`
 ];
 
 export const il8n = new LocalizedStrings({

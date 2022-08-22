@@ -34,8 +34,8 @@ let config = null;
 const homedir = os.homedir();
 
 const directories = [
-  `${homedir}/.traaittplatformwallet`,
-  `${homedir}/.traaittplatformwallet/logs`
+  `${homedir}/.traaittPlatformEnterprise`,
+  `${homedir}/.traaittPlatformEnterprise/logs`
 ];
 
 const [programDirectory] = directories;
