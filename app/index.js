@@ -62,7 +62,7 @@ updater.getLatestVersion();
 
 export const loginCounter = new LoginCounter();
 
-remote.app.setAppUserModelId('wallet.proton.extra');
+remote.app.setAppUserModelId('wallet.traaittplatform');
 
 log.debug(`traaittPlatform Enterprise started...`);
 
